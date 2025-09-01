@@ -27,4 +27,5 @@ After each guess, the game will give hints whether the guess is **too high** or 
 
 ---
 
-## 📂 Project Structure
+
+
