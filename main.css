@@ -2,14 +2,15 @@ body{
     font-family: system-ui;
     font-size: 20px;
     background-color: whitesmoke;
+    color: white;
 }
 
 .Numbergame{
-    margin: 40px auto;
+    margin: 80px auto;
     max-width: max-content;
-    background-color: #d3f9e2;
+    background-color: #340f45;
     text-align: center;
-    padding: 15px 20px;
+    padding: 50px 18px;
     border-radius: 5px;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.653);
 }
@@ -22,14 +23,14 @@ body{
     font-size: 25px;
     font-weight: 700;
     border: 1px,solid,rgb(0, 42, 91);
-    color: rgb(0, 52, 195);
+    
     
     
 }
 
 #Guessbtn{
     padding: 10px 20px;
-    background-color: rgb(0, 119, 255);
+    background-color: rgb(15, 160, 20);
     color: white;
     border: none;
     border-radius: 7px;
