@@ -1,12 +1,17 @@
 body{
     font-family: system-ui;
     font-size: 20px;
-    background-color: aliceblue;
+    background-color: rgb(245, 255, 206);
 }
 
 .Numbergame{
-
+    margin: 40px auto;
+    max-width: max-content;
+    background-color: #fff67d;
     text-align: center;
+    padding: 15px 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.653);
 }
 
 #GuessNum{
@@ -15,7 +20,10 @@ body{
     height: 40px;
     text-align: center;
     font-size: 25px;
+    font-weight: 700;
     border: 1px,solid,rgb(0, 42, 91);
+    color: rgb(23, 0, 171);
+    
     
 }
 
